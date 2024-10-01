@@ -1,0 +1,184 @@
+@charset "UTF-8";
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+.finlandica-<uniquifier> {
+  font-family: "Finlandica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.cuerpo {
+    width: 1440px;
+    height: 2500px;
+}
+.cuerpo .encabezado {
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+.cuerpo .slider {
+    width: 100%;
+    height: 800px;
+    float: left;
+}
+.cuerpo .contenido {
+    width: 100%;
+    height: 1100px;
+    float: left;
+}
+.cuerpo .pie {
+    width: 100%;
+    height: 400px;
+    float: left;
+}
+.cuerpo .pie .logof {
+    margin-top: 17px;
+    margin-left: 76px;
+    float: left;
+}
+.cuerpo .pie .nomfoo {
+    width: 517px;
+    height: 99px;
+    float: left;
+    margin-left: 66px;
+    margin-top: 31px;
+}
+.pie .nomfoo .nomf {
+    font-family: "Finlandica Regular Bold";
+    font-size: xx-large;
+    margin-top: -9px;
+    text-align: left;
+}
+.pie .nomfoo .proff {
+    font-family: "Finlandica Regular SemiBold";
+    font-size: x-large;
+    margin-top: -26px;
+    text-align: left;
+}
+.pie .nomfoo .correof {
+    font-family: "Finlandica Regular SemiBold";
+    font-size: medium;
+    margin-top: -22px;
+    color: #6B6969;
+    text-align: left;
+}
+.cuerpo .pie .menufoo {
+    width: 200px;
+    height: 177px;
+    float: left;
+    clear: left;
+    margin-left: 215px;
+    margin-top: 20px;
+}
+.pie .menufoo .btnfoo {
+    font-family: "Finlandica Regular Bold";
+    text-align: center;
+    font-size: x-large;
+    margin-top: -8px;
+}
+.cuerpo .encabezado .logoh {
+    margin-left: 86px;
+    margin-top: 17px;
+    float: left;
+}
+.cuerpo .encabezado .nombreprof {
+    width: 517px;
+    height: 85px;
+    float: left;
+    margin-left: 77px;
+    margin-top: 17px;
+}
+.encabezado .nombreprof .nombre {
+    font-family: "Finlandica Regular Bold";
+    margin-top: -2px;
+    text-align: left;
+}
+.cuerpo .encabezado .menu {
+    width: 817px;
+    height: 48px;
+    float: left;
+    margin-left: 277px;
+}
+.encabezado .nombreprof .prof {
+    font-family: "Finlandica Regular SemiBold";
+    font-size: 20pt;
+    margin-top: -15px;
+    text-align: left;
+}
+.encabezado .menu .loqs {
+    font-family: "Finlandica Regular Bold";
+    float: left;
+    margin-left: 7px;
+    width: 141px;
+    font-size: x-large;
+}
+.encabezado .menu .sue {
+    font-family: "Finlandica Regular Bold";
+    float: left;
+    margin-left: 116px;
+    font-size: x-large;
+}
+.encabezado .menu .jueg {
+    font-family: "Finlandica Regular Bold";
+    float: left;
+    margin-left: 108px;
+    font-size: x-large;
+}
+.encabezado .menu .exper {
+    font-family: "Finlandica Regular Bold";
+    float: left;
+    margin-left: 99px;
+    font-size: x-large;
+}
+.cuerpo .encabezado .redes {
+    width: 248px;
+    height: 45px;
+    float: left;
+    margin-top: 17px;
+    margin-left: 336px;
+}
+.encabezado .redes .faceh {
+    margin-left: 22px;
+}
+.encabezado .redes .instah {
+    margin-left: 22px;
+}
+.encabezado .redes .tikh {
+    margin-left: 22px;
+}
+.cuerpo .pie .redesf {
+    width: 523px;
+    height: 83px;
+    float: left;
+    margin-left: 243px;
+    margin-top: 20px;
+}
+.pie .redesf .facef {
+    margin-left: 65px;
+}
+.pie .redesf .instaf {
+    margin-left: 65px;
+}
+.pie .redesf .tikf {
+    margin-left: 65px;
+}
+.cuerpo .pie .copyright {
+    width: 292px;
+    height: 22px;
+    float: left;
+    margin-top: 100px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    margin-left: 90px;
+}
+.cuerpo .contenido .video1 {
+    width: 906px;
+    height: 533px;
+    float: left;
+    margin-left: 266px;
+    margin-top: 53px;
+}
